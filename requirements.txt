@@ -1,0 +1,9 @@
+python-dotenv
+pdfplumber
+python-docx
+pydantic
+openai 
+requests
+gspread
+oauth2client
+pandas
